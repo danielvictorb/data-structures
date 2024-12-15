@@ -1,0 +1,5 @@
+daniel 20
+harry 20
+felipe 10
+kaka 20
+nicholas 5
