@@ -27,7 +27,7 @@ int main(){
                 free(namesArrays[j]);
             }
             free(namesArrays);
-            return 1;
+            return 1; 
         }
         write_names(namesArrays[i]);
     }
